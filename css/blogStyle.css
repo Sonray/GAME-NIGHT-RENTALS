@@ -1,0 +1,29 @@
+body{
+    font-family: "Montserrat";
+}
+.jumbotron{
+    text-align: center;
+    background-color:#26F122;
+    height: 7vh;
+}
+.jumbotron h1{
+    margin-top: -8vh;
+    font-size:80px;
+    font-weight: 1000;
+    text-shadow: 5px 5px red;
+}
+nav{
+    text-align: right;
+    background-color: darkgray;
+    margin-top: -5vh;
+    padding-top:20px;
+}
+.blogs{
+    background-color: black;
+    color: blanchedalmond;
+    
+}
+footer{
+    background-color: black;
+    color: blanchedalmond;
+}
