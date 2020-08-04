@@ -21,9 +21,22 @@ nav{
 .blogs{
     background-color: black;
     color: blanchedalmond;
-    
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-size: 35px;
+    margin-left:64px;
+}
+nav{
+    font-weight: bold;
 }
 footer{
     background-color: black;
     color: blanchedalmond;
+}
+#footer-title{
+    font-size: 20px;
+    text-align: left;
+    padding-right: 13px;
 }
