@@ -42,3 +42,23 @@ footer{
 #social-media img{
     margin-left: 3vw;
 }
+
+
+
+/* START--terms & conditions */
+.terms-condition {
+    padding: 150px;
+}
+.terms-conditions h1 {
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+
+span {
+    font-weight: bolder;
+    text-align: center;
+}
+
+/* END--terms & conditions */
