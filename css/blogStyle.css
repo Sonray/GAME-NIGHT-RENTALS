@@ -1,22 +1,29 @@
 body{
     font-family: "Montserrat";
+    scroll-behavior: smooth;
 }
 .jumbotron{
     text-align: center;
     background-color:#26F122;
     height: 7vh;
 }
-.jumbotron h1{
+.jumbotron h3{
     margin-top: -8vh;
-    font-size:80px;
+    font-size:60px;
     font-weight: 1000;
-    text-shadow: 5px 5px red;
+    text-shadow: 2px 2px red;
+}
+#itallic{
+    font-style: oblique;
+    font-family: "Merienda";
+    font-size: 17px;
 }
 nav{
-    text-align: right;
+    text-align: center;
     background-color: darkgray;
     margin-top: -5vh;
     padding-top:20px;
+    
 }
 .blogs{
     background-color: black;
@@ -28,8 +35,18 @@ h4{
     font-size: 35px;
     margin-left:64px;
 }
-nav{
-    font-weight: bold;
+.navigation{
+    text-align: right;
+    background-color: grey;
+    margin-top: -5vh;
+    height: 10vh;
+    padding: 20px;
+}
+.nav-bar a{
+    margin-right: 5vw;
+    font-size: 20px;
+    font-weight: 1000px;
+    color: black;
 }
 footer{
     background-color: black;
