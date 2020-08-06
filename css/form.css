@@ -2,6 +2,12 @@
 *, *:before, *:after {
     box-sizing: border-box;
   }
+
+  .form-bg {
+    width: 100px;
+    height:100px;
+    align-items: stretch;
+  }
   html {
     overflow-y: scroll;
   }
